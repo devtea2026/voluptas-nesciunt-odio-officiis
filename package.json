@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/voluptas-nesciunt-odio-officiis",
-  "version": "3.7.42",
+  "version": "3.7.43",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -375,5 +375,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/voluptas-nesciunt-odio-officiis/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
